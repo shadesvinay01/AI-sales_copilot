@@ -1,0 +1,11 @@
+name,company,email_opens,meetings,website_visits,industry,score
+John Smith,TechCorp,5,1,12,SaaS,75
+Sarah Chen,GrowthLabs,8,2,25,AI/ML,92
+Priya Patel,AIDynamics,12,3,30,AI/ML,88
+Mike Johnson,StartupHub,1,0,3,E-commerce,45
+Lisa Wong,DataFlow,4,1,8,Data,62
+Alex Rodriguez,MobileFirst,6,0,15,Mobile,58
+Fatima Ahmed,EcomPlus,2,0,2,E-commerce,30
+David Kim,CloudScale,3,0,7,Cloud,48
+Elena Garcia,DevOpsPro,7,1,18,DevOps,71
+Tom Brown,SaaSify,9,2,22,SaaS,84
