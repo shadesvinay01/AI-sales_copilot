@@ -1,0 +1,11 @@
+lead_id,name,company,email,phone,email_opens,email_clicks,meetings,website_visits,days_since_contact,industry,status,source,score,probability
+1001,John Smith,TechCorp,john@techcorp.com,+1-555-0123,5,3,1,12,2,SaaS,meeting_scheduled,Website,75,75%
+1002,Sarah Chen,GrowthLabs,sarah@growthlabs.com,+1-555-0124,8,5,2,25,1,AI/ML,negotiation,LinkedIn,92,92%
+1003,Priya Patel,AIDynamics,priya@aidynamics.com,+1-555-0125,12,8,3,30,0,AI/ML,hot,Referral,88,88%
+1004,Mike Johnson,StartupHub,mike@startuphub.com,+1-555-0126,1,0,0,3,45,E-commerce,cold,Website,45,45%
+1005,Lisa Wong,DataFlow,lisa@dataflow.com,+1-555-0127,4,2,1,8,10,Data,follow_up,LinkedIn,62,62%
+1006,Alex Rodriguez,MobileFirst,alex@mobilefirst.com,+1-555-0128,6,3,0,15,5,Mobile,interested,Website,58,58%
+1007,Fatima Ahmed,EcomPlus,fatima@ecomplus.com,+1-555-0129,2,0,0,2,60,E-commerce,cold,Manual,30,30%
+1008,David Kim,CloudScale,david@cloudscale.com,+1-555-0130,3,1,0,7,20,Cloud,new,LinkedIn,48,48%
+1009,Elena Garcia,DevOpsPro,elena@devopspro.com,+1-555-0131,7,4,1,18,3,DevOps,meeting_scheduled,Website,71,71%
+1010,Tom Brown,SaaSify,tom@saasify.com,+1-555-0132,9,6,2,22,4,SaaS,proposal,Referral,84,84%
