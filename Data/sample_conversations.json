@@ -1,0 +1,38 @@
+[
+  {
+    "lead_id": 1001,
+    "name": "John Smith",
+    "conversations": [
+      {
+        "date": "2024-03-15",
+        "type": "email",
+        "content": "Interested in demo",
+        "sentiment": "positive"
+      },
+      {
+        "date": "2024-03-16",
+        "type": "meeting",
+        "content": "Product demo scheduled",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "lead_id": 1002,
+    "name": "Sarah Chen",
+    "conversations": [
+      {
+        "date": "2024-03-14",
+        "type": "linkedin",
+        "content": "Connected on LinkedIn",
+        "sentiment": "neutral"
+      },
+      {
+        "date": "2024-03-17",
+        "type": "email",
+        "content": "Asked for pricing",
+        "sentiment": "positive"
+      }
+    ]
+  }
+]
